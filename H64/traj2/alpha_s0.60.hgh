@@ -1,0 +1,5 @@
+Smeared alpha (He nucleus, Z=+2), local only: V(r) = -(Z/r)erf(r/(sqrt2*rloc)), rloc = 0.6 bohr
+    2   2  000000 zatom,zion,pspdat
+10 11 -1 2 2001 0  pspcod,pspxc,lmax,lloc,mmax,r2well
+     0.60000000    0                                                                rloc nloc
+    0                                                                               nnonloc
